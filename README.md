@@ -4,6 +4,6 @@
 
 *Link to project pages*
 
-(./Maps/Lab3-01.png)    (.//FinalShenV2-01.png)    (./Maps/KyLandcover.jpg)
+![Virginia Bivariate Map](./Maps/Lab3-01.png)    ![Shenandoah National Park Map](./FinalShenV2-01.png)    ![Kentucky Land Cover Map](./Maps/KyLandcover.jpg)
 
 *Link for Map Library with all maps and dates*
