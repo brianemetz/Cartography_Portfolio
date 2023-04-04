@@ -4,6 +4,6 @@
 
 *Link to project pages*
 
-(Maps\Lab3-01.png)    (FinalShenV2-01.png)    (KyLandcover.jpg)
+(./Maps/Lab3-01.png)    (.//FinalShenV2-01.png)    (./Maps/KyLandcover.jpg)
 
 *Link for Map Library with all maps and dates*
