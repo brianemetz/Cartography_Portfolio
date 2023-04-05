@@ -1,4 +1,5 @@
-Here collection of all the maps I have made throughout the last year. There will be a date underneath and a tiny description.
+# Here collection of all the maps I have made throughout the last year. There will be a date underneath and a tiny description.
+
 
 
 ![ACS US Education](./Maps/ACS%20US%20EDUCATION-01.png)
@@ -6,11 +7,13 @@ This map was made to show data of estimated bachelor's degrees percentage in the
 
 
 ![Indonesia Extra Credit](./Maps/Indonesia-Extra-Credit.png)
+
 This map's purpose was an extra credit assignment tasked with reflecting a map published by the New York Times. The original map is shown below. I used QGIS and Adobe Illustrator. Fall 2022
+
 ![Indonesia real map](./Maps/zoom-430.jpg)
 
-
 ![Ky Land Cover](./Maps/KyLandcover.jpg)
+
 This map was made to use NLCD land classes and hillshades together and make an asthetically pleasing and informative map. Spring 2023
 
 
