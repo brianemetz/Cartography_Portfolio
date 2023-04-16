@@ -14,4 +14,4 @@ This lab's purpose was to create and animate a scene using LiDAR data gathered f
 ![Mile marker 89 map](./Maps/I75KyRiverLayout.jpg)     
 
 ![Screenshot of animation](./Maps/ScreenCapI75KyRiver.JPG)     
-*[I-75 & Kentucky River - Mile Marker 89](https://youtu.be/nSUdGtuF7i0)*
+Video animation: *[I-75 & Kentucky River - Mile Marker 89](https://youtu.be/nSUdGtuF7i0)*
