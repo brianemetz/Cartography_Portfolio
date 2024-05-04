@@ -3,7 +3,8 @@
 
 
 [Follow this link to see the projects I have done](Projects.md)
-<hr>
+
+
 [Follow this link to see all the maps that I have created at the University of Kentucky](Map_Library.md) 
 
 <hr>
