@@ -1,10 +1,10 @@
 # Geographic Portfolio - Brian Metz
 
 
-<!-- commented out
+
 [Follow this link to see the projects I have done](Projects.md)
 [Follow this link to see all the maps that I have created at the University of Kentucky](Map_Library.md) 
--->
+
 
 
 ![Virginia Bivariate Map](./Maps/Lab3-01.jpg)   
