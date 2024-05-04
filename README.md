@@ -2,7 +2,7 @@
 
 
 
-[Follow this link to see the projects I have done](Projects.md)
+[Follow this link to see the completed projects from my undergradutate career](Projects.md)
 
 
 [Follow this link to see all the maps that I have created at the University of Kentucky](Map_Library.md) 
