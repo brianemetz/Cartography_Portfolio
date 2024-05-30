@@ -37,7 +37,7 @@ This map was made to use NLCD land classes and hillshades together and make an a
 
 <hr>
 
-![Va Bivariate](./Maps/Lab3-01.png)
+![Va Bivariate](./Maps/Lab3-01.jpg)
 This map uses population data and percent of the population that works from home. I challenged myself to use a bivariate color scheme in QGIS. Fall 2022
 
 <hr>
