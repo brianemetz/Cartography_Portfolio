@@ -7,11 +7,16 @@ The purpose of this class was to practice making maps that are more appealing to
 
 ![Shenandoah National Park Map](./Maps/FinalShenV2-01.png) 
 
-# Lab 05: Exploring Kentucky LiDAR -  Geo 409: Advanced GIS - Spring 2023
+Many of my projects from my advanced GIS class are compiled on dedicated GitHub sites, all under the following links:
 
-This lab's purpose was to create and animate a scene using LiDAR data gathered from the state database KyFromAbove. I chose an area of I-75 that has lots of elevation change to example the usefulness of LiDAR point clouds compared to digital surface models. I also was tasked with making an animation in ArcGIS pro. I think this turned out really well. 
+[Lab 4:Field Mapping](https://github.com/brianemetz/geo-409-field-trip)
 
-![Mile marker 89 map](./Maps/I75KyRiverLayout.jpg)     
+[Lab 5:Introduction to LiDAR](https://github.com/brianemetz/Ky-LiDar-at-Mile-Marker-89-of-I-75)
 
-![Screenshot of animation](./Maps/ScreenCapI75KyRiver.JPG)     
-Video animation: *[I-75 & Kentucky River - Mile Marker 89](https://youtu.be/nSUdGtuF7i0)*
+[Lab 6:Vizualizing Change](https://github.com/brianemetz/Mod-06-Lab)
+
+[Lab 7:Shaded Relief Mapping](https://github.com/brianemetz/mod-07-beme232)
+
+[Lab 8:Final Project (3D LiDAR vizualizing)](https://brianemetz.github.io/ZilpoCamp/)
+
+
